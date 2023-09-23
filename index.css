@@ -1,0 +1,59 @@
+#main {
+  text-align: center;
+  color: white;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+body {
+  /* Set the background image URL */
+  /* margin-top: 10px; */
+  background-image: url("https://e1.pxfuel.com/desktop-wallpaper/47/10/desktop-wallpaper-maserati-ghibli-hybrid-2021-interior-view-interior-new-ghibli-italian-sports-cars-maserati-with-resolution-2560x1600-high-quality-maserati-2021.jpg");
+
+  /* Specify background size and other properties */
+  background-size: cover; /* Adjust as needed */
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Optional: Fixed or scroll depending on your preference */
+}
+#camera {
+  margin-left: 45%;
+  margin-top: 3%;
+  /* border: 5px solid white; */
+  /* background-color: white; */
+  width: 200px;
+}
+#startbtn {
+  margin-left: 50%;
+  margin-top: 50px;
+  padding: 10px 20px;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+}
+#startbtn:hover {
+  background-color: green;
+  color: white;
+  cursor: pointer;
+}
+#label-container {
+  border: 5px solid white;
+  height: 100px;
+  display: none;
+}
+/* #message {
+  border: 5px solid white;
+  margin-left: 20px;
+  height: 10px;
+} */
+/* #container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 1px solid white;
+} */
+/* #container > div {
+  border: 1px solid white;
+  margin-left: 10px;
+} */
